@@ -9,4 +9,4 @@ $ git clone https://github.com/Tenking-XD/ig-prem
 $ ls ( L kecil )               
 $ git pull              
 $ cd ig-prem            
-$ python ige2.py
+$ python setup.py
