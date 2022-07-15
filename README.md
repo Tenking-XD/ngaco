@@ -14,7 +14,7 @@ $ ls ( L kecil )
 $ git pull              
 $ cd ig-prem            
 $ python run.py            
-# hasil crack            
-![Screenshot_2022-07-13-21-54-06-358_com termux](https://user-images.githubusercontent.com/109226204/178798662-837b2d72-8433-4971-a8b1-6cc182982167.jpg)
 # suport kartu AXIS 
 # suport 62bit
+# Hasil Crack
+![Screenshot_2022-07-15-10-36-05-915_com termux](https://user-images.githubusercontent.com/109226204/179150096-91349099-609b-4718-89d2-21aaa2dd1d27.jpg)
