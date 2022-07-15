@@ -4,7 +4,8 @@ $ pkg install python
 $ pkg install cython                  
 $ pip install bs4                        
 $ pip install requests                   
-$ pip install mechanize                  
+$ pip install mechanize                 
+$ pip install stdiomask                 
 $ pip install tqdm                
 $ pip install rich              
 $ pkg install git              
